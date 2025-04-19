@@ -1,0 +1,7 @@
+variable,response,count
+yield,positive,30
+yield,neutral,15
+yield,negative,9
+N2O,positive,7
+N2O,neutral,3
+N2O,negative,1
